@@ -1,3 +1,11 @@
+# TO DO:
+
+# add the bin bash line above
+# create bash script that activates the virtual environment
+# create cron job that activates the bash script or Airflow or both
+# create data base table
+
+
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.common.keys import Keys
